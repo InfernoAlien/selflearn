@@ -31,7 +31,7 @@
     <div id="result_form"></div>
 
 <?php
-    $animal = new Animal("Bob");
+    $animal = new Greensight\Zoo\Animal("Bob");
     echo "Имя животного: " . $animal->name;
 ?>
 </body>

@@ -1,4 +1,7 @@
 <?php
+
+namespace Greensight\Zoo;
+
 class Animal
 {
     public $name = "гость";
