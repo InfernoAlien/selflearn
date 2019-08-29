@@ -34,5 +34,7 @@
     $animal = new Greensight\Zoo\Animal("Bob");
     echo "Имя животного: " . $animal->name;
 ?>
+    
+    <h2>Привет с GitHub!</h2>
 </body>
 </html>
